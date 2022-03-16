@@ -1,6 +1,8 @@
 var contestantCount, database, quiz, question, contestant
 var gameState = 0
-var allContestants
+var allContestant
+
+//modify this
 
 function setup() {
   createCanvas(850, 400);
