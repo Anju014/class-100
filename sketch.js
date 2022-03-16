@@ -16,7 +16,7 @@ function setup() {
 
 
 function draw() {
-  background("pink");
+  background("green");
 
   // text(mouseX + ',' + mouseY, 50, 50)
 
